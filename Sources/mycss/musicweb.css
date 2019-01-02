@@ -201,7 +201,7 @@ main .container .row .ndbox1{
 	background-color: #e7b96d;
 	height: 45.3em;
 	border-radius: 4px;
-
+	overflow: auto;
 }
 
 main .content1{
@@ -236,6 +236,7 @@ main .content2 #row_content22, #row_content22{
 	overflow: auto;
 }
 main .content2 .container .box2{
+	overflow: auto;
 	width: 23.5%;
 	float: left;
 	line-height: 5em;
